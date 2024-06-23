@@ -8,7 +8,7 @@ PER_DEVICE_BATCH_SIZE=4
 # Iterative unlearning methods
 LR='1e-5'
 RETAIN="../data/$CORPUS/raw/retain1.txt"
-STEP_ALGOS=('npo_gdr' 'npo_klr')
+STEP_ALGOS=('ga' 'ga_gdr' 'ga_klr' 'npo' 'npo_gdr' 'npo_klr')
 EPOCHS=('1' '7' '10' '1' '10' '10')
 STEPS_PER_EPOCH='102'
 for i in ${!STEP_ALGOS[*]}; do 

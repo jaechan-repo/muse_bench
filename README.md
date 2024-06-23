@@ -8,8 +8,6 @@ This repository provides the original implementation of *Machine Unlearning Six-
 
 ## Content
 - [Setup](#setup)
-- [Conda environment](#conda-environment)
-- [Data](#data)
 - [Unlearning](#unlearning)
 - [Evaluate the Knowledge Memorization (C2) and Identify Unlearned Checkpoints with Optimal Forget Qualities](#evaluate-the-knowledge-memorization-c2-and-identify-unlearned-checkpoints-with-optimal-forget-qualities)
 - [Evaluate Verbatim Memorization (C1)](#evaluate-verbatim-memorization-c1)
