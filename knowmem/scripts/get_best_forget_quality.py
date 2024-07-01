@@ -31,8 +31,8 @@ STEPS = {
     'hp': [139 * i for i in range(1, 11)]
 }
 ALPHAS = {
-    'bbc': [1, 2, 4, 8, 16], 
-    'hp': [1, 2, 4, 8, 16]
+    'bbc': [2 ** i for i in range(10)], 
+    'hp': [2 ** i for i in range(10)]
 }
 
 CKPT_DIR = "../baselines/ckpt"

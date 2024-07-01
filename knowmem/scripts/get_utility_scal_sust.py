@@ -89,7 +89,7 @@ def main(corpus: Literal['bbc', 'hp'],
                 continue;
             algo, ckpt = parse_slash(model_name)  # Expected format: "ga/5"
             if algo in step_algos:
-                model_dir = f"{ckpt_dir}/{corpus}/{mode}/{algo}/{fold}" + (
+                model_dir = f"{ckpt_dir}/{corpus}/{mode}/{algo}/fold={fold}" + (
                     f"/checkpoint-{int(ckpt)}"
                     if ckpt is not None
                     else ""

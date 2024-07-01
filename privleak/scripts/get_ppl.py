@@ -33,7 +33,7 @@ CKPT_NAMES = {
             'npo/step=102',
             'npo_gdr/step=1020',
             'npo_klr/step=1020',
-            'tv/alpha=16',
+            'tv/alpha=512',
             'whp/alpha=4'],
     'hp': ['ga/step=139',
            'ga_gdr/step=139',
@@ -41,7 +41,7 @@ CKPT_NAMES = {
            'npo/step=139',
            'npo_gdr/step=139',
            'npo_klr/step=417',
-           'tv/alpha=1',
+           'tv/alpha=512',
            'whp/alpha=256']
 }
 TARGET_MODEL_DIRS = {
