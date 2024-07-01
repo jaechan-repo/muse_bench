@@ -1,0 +1,1 @@
+{"max_rougeL": 1.0, "mean_rougeL": 0.3107868300014508, "max_rougeL_recall": 1.0, "mean_rougeL_recall": 0.42685425685425693, "max_rouge1": 1.0, "mean_rouge1": 0.3168807647405468, "max_rouge1_recall": 1.0, "mean_rouge1_recall": 0.4342871572871574, "model": "../baselines/ckpt/bbc/scal/npo_klr/fold=4", "max_new_tokens": 32}

@@ -1,0 +1,1 @@
+{"max_rougeL": 0.8926553672316384, "mean_rougeL": 0.208344985168065, "max_rougeL_recall": 0.8571428571428571, "mean_rougeL_recall": 0.20340776001109717, "max_rouge1": 0.8926553672316384, "mean_rouge1": 0.3143946955615424, "max_rouge1_recall": 0.8571428571428571, "mean_rouge1_recall": 0.3091972963181291, "model": "swj0419/bbc-retrain_STEP0000040_5-31", "max_new_tokens": 128}

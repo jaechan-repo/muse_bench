@@ -1,0 +1,1 @@
+{"max_rougeL": 1.0, "mean_rougeL": 0.35559987420315553, "max_rougeL_recall": 1.0, "mean_rougeL_recall": 0.40159485835801634, "max_rouge1": 1.0, "mean_rouge1": 0.35757836882681154, "max_rouge1_recall": 1.0, "mean_rouge1_recall": 0.4044281916913496, "model": "../baselines/ckpt/bbc/sust/ga_gdr/3", "max_new_tokens": 32}

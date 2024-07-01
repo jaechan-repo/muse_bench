@@ -1,0 +1,1 @@
+{"max_rougeL": 1.0, "mean_rougeL": 0.5236529859029857, "max_rougeL_recall": 1.0, "mean_rougeL_recall": 0.5492731092436975, "max_rouge1": 1.0, "mean_rouge1": 0.527009629259629, "max_rouge1_recall": 1.0, "mean_rouge1_recall": 0.5529397759103641, "model": "swj0419/hpall_STEP0000160-5-13", "max_new_tokens": 32, "mean_rougeL_retrain": 0.2889637830910209}

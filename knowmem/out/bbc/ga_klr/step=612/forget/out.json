@@ -1,0 +1,1 @@
+{"max_rougeL": 1.0, "mean_rougeL": 0.5466063152533739, "max_rougeL_recall": 1.0, "mean_rougeL_recall": 0.6197857142857143, "max_rouge1": 1.0, "mean_rouge1": 0.5506063152533739, "max_rouge1_recall": 1.0, "mean_rouge1_recall": 0.6240714285714285, "model": "../baselines/ckpt/bbc/ga_klr/checkpoint-612", "max_new_tokens": 32, "mean_rougeL_retrain": 0.33112620712620716}

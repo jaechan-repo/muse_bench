@@ -1,0 +1,1 @@
+{"max_rougeL": 1.0, "mean_rougeL": 0.21858269590825355, "max_rougeL_recall": 1.0, "mean_rougeL_recall": 0.25164311179017046, "max_rouge1": 1.0, "mean_rouge1": 0.21932343664899429, "max_rouge1_recall": 1.0, "mean_rouge1_recall": 0.25223134708428807, "model": "../baselines/ckpt/hp/ga_klr/checkpoint-556", "max_new_tokens": 32, "mean_rougeL_retrain": 0.2889637830910209}
